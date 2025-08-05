@@ -1,0 +1,15 @@
+names:
+- 10baht
+- 1baht
+- 20baht
+- 5baht
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: coins_dataset-urhcc
+  url: https://universe.roboflow.com/model-daesx/coins_dataset-urhcc/dataset/1
+  version: 1
+  workspace: model-daesx
+test: ../test/images
+train: ../train/images
+val: ../valid/images
